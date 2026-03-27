@@ -1,4 +1,4 @@
-# Toy Robot Challenge — TypeScript
+# Toy Robot — TypeScript
 
 A TypeScript console application that simulates a toy robot moving on a 5x5 tabletop.
 
