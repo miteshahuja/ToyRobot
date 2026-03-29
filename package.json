@@ -2,7 +2,7 @@
   "name": "toyrobot",
   "version": "1.0.0",
   "description": "A TypeScript console application that simulates a toy robot moving on a 5x5 tabletop",
-  "main": "index.js",
+  "main": "dist/index.js",
   "private": true,
   "scripts": {
     "build": "tsc",
@@ -12,7 +12,7 @@
     "test:watch": "vitest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mitesh Ahuja",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^25.5.0",
